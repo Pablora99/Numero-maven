@@ -1,4 +1,4 @@
-package paquetePrueba;
+package com.termometer.example.util;
  
 import static org.junit.Assert.*;
  
